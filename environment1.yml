@@ -5,6 +5,7 @@ channels:
 dependencies:
   - numpy
   - matplotlib
-  - ipycanvas
-  - pandas
-  - chapyter
+  - pip:
+    - ipycanvas
+    - pandas
+    - chapyter
