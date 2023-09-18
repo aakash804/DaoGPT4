@@ -1,6 +1,6 @@
 # 🔥 LIT 🔥
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jtpio.github.io/lit)
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)]([https://jtpio.github.io/lit](https://mryinglee.github.io/DaoGPT4/))
 
 A custom JupyterLite deployed as a static site to GitHub Pages.
 
