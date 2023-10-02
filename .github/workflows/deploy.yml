@@ -24,7 +24,7 @@ jobs:
       - name: Build the JupyterLite site
         run: |
           cp README.md content
-          jupyter lite build --contents content --output-dir dist --XeusPythonEnv.environment_file=environment1.yml
+          jupyter lite build --contents content --output-dir dist --XeusPythonEnv.environment_file=environment.yml
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
