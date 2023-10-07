@@ -29,3 +29,10 @@ dependencies:
   - python-tzdata
   - httpx
   - xarray
+  - ./multidict-6.0.4-py3-none-any.whl
+  - ./tornado-6.3.3-py3-none-any.whl
+  - ./frozenlist-1.4.0-py3-none-any.whl
+  - ./aiohttp-3.8.5-py3-none-any.whl
+  - langchain==0.0.309
+  - ./jupyter_ai_magics-2.2.0-py3-none-any.whl
+  - ./jupyter_ai_monorepo-2.2.0-py3-none-any.whl
